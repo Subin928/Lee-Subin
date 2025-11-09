@@ -6,6 +6,8 @@
         <div style="text-align: left;"> <a href=mailto:luzsb01@naver.com> <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:luzsb01@naver.com"> </a>
          <a href=https://velog.io/@luzsb01/> <img src="https://img.shields.io/badge/Velog-000000?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@luzsb01/"> </a>
           </div>  <br> 
+          🌱velog : velog.io/@luzsb01
+
     <div style="text-align: left;">  </div> 
     </div>
           </div><br>
