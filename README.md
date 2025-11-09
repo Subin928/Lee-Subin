@@ -22,9 +22,12 @@
           <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
           <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
           </div>
-        </div><br>
-<div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div style="text-align: left;"> <img src="https://github-readme-stats.vercel.app/api?username=Lee-Subin&custom_title=Lee-Subin's Github Stat&bg_color=180,000000,&title_color=9dc47e&text_color=9dc47e"
+    </div><br>
+<div align= "center">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📋 Stat 📋 </h2>
+    
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lee-Subin&show_icons=true&theme=shadow_green)    
+
         />  </div> 
     </div>
     
