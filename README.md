@@ -23,7 +23,7 @@
           <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
           </div>
     </div><br>
-<div align= "center">
+<div align= "left">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📋 Stat 📋 </h2>
     
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lee-Subin&show_icons=true&theme=shadow_green)    
