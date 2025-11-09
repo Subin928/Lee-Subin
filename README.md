@@ -9,9 +9,9 @@
     <div style="text-align: left;">  </div> 
     </div>
           </div><br>
-    <div align= "center">  </div> 
-    <h2 align="center">📧 Email 📧</h2>
-<p align="center">
+    <div align= "left">  </div> 
+    <h2 align="left">📧 Email 📧</h2>
+<p align="left">
   <Strong> luzsb01@naer.com </Strong>
 </p><br>
-<div align= "center">
+<div align= "left">
