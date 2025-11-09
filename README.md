@@ -9,7 +9,9 @@
     <div style="text-align: left;">  </div> 
     </div>
           </div><br>
-    <div align= "left">  </div> 
+<div align="left">
+  🌱 velog : <a href="https://velog.io/@luzsb01">velog.io/@luzsb01</a>
+</div>
     <h2 align="left">📧 Email 📧</h2>
 <p align="left">
   <Strong> luzsb01@naver.com </Strong>
